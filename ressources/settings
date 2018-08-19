@@ -1,0 +1,39 @@
+#./raytracer2 --quality=high
+#./raytracer2 -q high
+#./raytracer2 -h --help -d --debug
+
+HIGH
+{
+	render_distance=1000
+	max_recursion=10
+	line_calc=2
+	antialiasing=0
+}
+
+MEDIUM
+{
+	render_distance=500
+	max_recursion=2
+	line_calc=1
+}
+
+LOW
+{
+	render_distance=200
+	max_recursion=1
+	line_calc=1
+}
+
+NONE
+{
+	renderdistance=200
+	max_recursion=1
+	line_calc=0
+}
+
+CUSTOM='lucasLeBg'
+{
+	renderdistance=99999
+	max_recursion=99999
+	line_calc=99999
+}
