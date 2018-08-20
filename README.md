@@ -34,14 +34,14 @@ Une fois le programme installé, lancez-le avec la commande:
 
 * Moteur 3D complet
 * Déplacement dans l'espace
-* Formes géomètriques variées (sphères, cylindres, cônes, cubes...)
+* Formes géométriques variées (sphères, cylindres, cônes, cubes...)
 * Images de fond
 * Musiques
-* Objets entièrements personnalisables (forme, couleur, poisition, poids, taille, lumière, matériaux)
+* Objets entièrement personnalisables (forme, couleur, position, poids, taille, lumière, matériaux)
 * Moteur physique (suivant la loi universelle de la gravitation d'*Isaac Newton*)
 * Fichiers de configuration (avec système d'héritage entre les objets)
 * Fichiers d'option (augmentation ou diminution de la qualité pour s'adapter aux performances de la machine)
-* Système de *Rendering* permettant de précalculer une scène pendant un temps défini pour un résultat encore plus fluide
+* Système de *Rendering* permettant de pré-calculer une scène pendant un temps défini pour un résultat encore plus fluide
 * Jeu d'échecs jouable et complet
 * Réflexion et réfraction de la lumière
 * Textures applicables aux objets (dont des textures avec du relief)
